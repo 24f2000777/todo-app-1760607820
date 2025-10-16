@@ -2,7 +2,7 @@
 
 ## Description
 
-Create a beautiful todo list app with add, delete, and mark as complete features. Use a modern gradient design with smooth animations. Include a counter showing total and completed tasks.
+Add filter buttons to show All, Active, and Completed todos. Add a 'Clear Completed' button to remove all completed items at once. Add priority levels (High, Medium, Low) with color coding.
 
 ## Features
 
